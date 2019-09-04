@@ -10,6 +10,7 @@ gitlens: push repositories
 gitlens: fetch repositories
 gitlens: open file on remote
 gitlens: open commit on remote
+gitlens: toggle git code lens
 # git history
 git: view history
 git: view file history
