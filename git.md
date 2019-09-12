@@ -8,3 +8,9 @@ this is described in detail in [](diff.md).
 this icon shows up after opening diff. used to return to the working file
 ## previous/next change
 ## git blame
+## git graph
+**git graph** is integrated into the **side bar**
+
+# commit
+when using `ctrl+enter` to commit **unstaged files**, **a warning dialog pops up**. this is reasonable. 
+
