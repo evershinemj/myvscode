@@ -14,3 +14,7 @@ this icon shows up after opening diff. used to return to the working file
 # commit
 when using `ctrl+enter` to commit **unstaged files**, **a warning dialog pops up**. this is reasonable. 
 
+# sync
+- click `...` in the **side bar** of source control to
+trigger `sync`. 
+- `sync` is a combination of `pull` and `push`.
