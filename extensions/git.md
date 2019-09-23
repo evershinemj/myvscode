@@ -1,4 +1,6 @@
 # gitlens
+the gitlens icon on the left sidebar is awesome!
+## actions
 - gitlens: show commit details
 - gitlens: compare HEAD with...
 - gitlens: commit references
@@ -11,6 +13,16 @@
 - gitlens: open file on remote
 - gitlens: open commit on remote
 - gitlens: toggle git code lens
+## sidebar
+### repositories
+- push && pull(the status bar shows the sync process)
+- branches
+- contributors(profiles of local and github contributors are quite favorable)
+- remotes
+- stashes
+- tags
+### file history
+history is shown with profiles, making it easy to discern who made which commit
 # git history
 - git: view history
 - git: view file history
