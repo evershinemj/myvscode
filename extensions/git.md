@@ -15,6 +15,7 @@ the gitlens icon on the left sidebar is awesome!
 - gitlens: toggle git code lens
 ## sidebar
 ### repositories
+- commits
 - push && pull(the status bar shows the sync process)
 - branches
 - contributors(profiles of local and github contributors are quite favorable)
