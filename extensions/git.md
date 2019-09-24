@@ -29,5 +29,10 @@ history is shown with profiles, making it easy to discern who made which commit
 - git: view history
 - git: view file history
 # git graph
+## actions
 - git graph: viw git graph(git log)
+## operations
+- click on commit to toggle commit info
+- click on commit and file to see diff 
+- right click to add light-weight tag or annotated tag
 
