@@ -18,3 +18,6 @@ when using `ctrl+enter` to commit **unstaged files**, **a warning dialog pops up
 - click `...` in the **side bar** of source control to
 trigger `sync`. 
 - `sync` is a combination of `pull` and `push`.
+
+# actions
+- push(follow tags)
