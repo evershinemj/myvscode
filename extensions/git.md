@@ -7,7 +7,7 @@ the gitlens icon on the left sidebar is awesome!
 - gitlens: close unchanged files
 - gitlens: open branch on remote
 - gitlens: open settings
-- gitlens: pull repositories
+- gitlens: pull repositories(multiple repositories can be pushed)
 - gitlens: push repositories
 - gitlens: fetch repositories
 - gitlens: open file on remote
