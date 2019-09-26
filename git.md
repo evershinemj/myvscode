@@ -3,7 +3,7 @@ for files versioned with git, there are some fairly useful icon.
 ## git history
 this icon is the leftmost one
 ## open changes with previous/next revision
-this is described in detail in [](diff.md).
+this is described in detail in [diff.md](diff.md).
 ## open working file
 this icon shows up after opening diff. used to return to the working file
 ## previous/next change
@@ -20,7 +20,7 @@ trigger `sync`.
 - `sync` is a combination of `pull` and `push`.
 
 # actions
-- push(follow tags)
+- push(follow tags) note: need to choose a repository
 
 # several git repositories
 when invoking `open folder`, only one git repository is shown. however, when invoking
