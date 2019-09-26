@@ -21,3 +21,8 @@ trigger `sync`.
 
 # actions
 - push(follow tags)
+
+# several git repositories
+when invoking `open folder`, only one git repository is shown. however, when invoking
+`add folder to workspace`(after `open workspace`), it is possible to manipulate several
+repositories.
