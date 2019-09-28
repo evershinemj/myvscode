@@ -15,7 +15,7 @@ the gitlens icon on the left sidebar is awesome!
 - gitlens: toggle git code lens
 ## sidebar
 ### repositories
-> red: you can pull; green: you can push; yellow: you can pull and push; blue: nothing to pull or push
+> red: you can pull; green: you can push; yellow: you can pull and push; blue: working tree has uncommitted changes; no color: nothing to pull or push
 - commits
 - push && pull(the status bar shows the sync process)
 - branches
