@@ -35,4 +35,4 @@ history is shown with profiles, making it easy to discern who made which commit
 - click on commit to toggle commit info
 - click on commit and file to see diff 
 - right click to add light-weight tag or annotated tag
-
+- right click on a single tag to `view details`, `push tag` or `delete tag`
