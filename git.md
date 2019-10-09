@@ -31,6 +31,7 @@ when using `ctrl+enter` to commit **unstaged files**, **a warning dialog pops up
 - click `...` in the **side bar** of source control to
 trigger `sync`. 
 - `sync` is a combination of `pull` and `push`.
+- while synchronizing(push and pull), the **git icon** displays a clock to indicate synchronizing is in process
 
 # actions
 
