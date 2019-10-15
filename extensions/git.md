@@ -1,6 +1,9 @@
 # gitlens
+
 the gitlens icon on the left sidebar is awesome!
+
 ## actions
+
 - gitlens: show commit details
 - gitlens: compare HEAD with...
 - gitlens: commit references
@@ -13,9 +16,16 @@ the gitlens icon on the left sidebar is awesome!
 - gitlens: open file on remote
 - gitlens: open commit on remote
 - gitlens: toggle git code lens
+
 ## sidebar
+
 ### repositories
-> red: you can pull; green: you can push; yellow: you can pull and push; blue: working tree has uncommitted changes; no color: nothing to pull or push
+
+> red: you can pull; green: you can push; yellow: you can pull and push; 
+  blue: working tree has uncommitted changes; no color: nothing to pull or push
+
+> note the git fetch info on the right of each repository
+
 - commits
 - push && pull(the status bar shows the sync process)
 - branches
@@ -23,15 +33,24 @@ the gitlens icon on the left sidebar is awesome!
 - remotes
 - stashes
 - tags
+
 ### file history
+
 history is shown with profiles, making it easy to discern who made which commit
+
 # git history
+
 - git: view history
 - git: view file history
+
 # git graph
+
 ## actions
+
 - git graph: viw git graph(git log)
+
 ## operations
+
 - click on commit to toggle commit info
 - click on commit and file to see diff 
 - right click to add light-weight tag or annotated tag
